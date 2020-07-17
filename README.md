@@ -2,13 +2,10 @@
 Projeto para listar repositorios favoritos do GitHub
 </h1>
 
-
+<p align="center">Projeto feito em reactjs, que cosome a API do Github usando axios.</p>
 <p align="center">Versão para vizualizar <a href="">aqui</a>.</p>
 
-<p align="center">
-    <img src="https://media.giphy.com/media/J53vIyLhIc0cb6Japa/giphy.gif" alt="Live Demo">
-  </a>
-</P>
+
 
 ## Tecnologias usadas
 
